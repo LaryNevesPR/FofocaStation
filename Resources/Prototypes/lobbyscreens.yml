@@ -33,3 +33,7 @@
 - type: lobbyBackground
   id: Singulo
   background: /Textures/LobbyScreens/Singulo.png
+
+- type: lobbyBackground
+  id: OperatorPlush
+  background: /Textures/LobbyScreens/OperatorPlush.webp
